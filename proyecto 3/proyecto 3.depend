@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1568818322 source:d:\eduardo\proyecto 3\main.cpp
+	<iostream>
+	"punto.h"
+	"vectorr.h"
+
+1568816525 source:d:\eduardo\proyecto 3\src\punto.cpp
+	"punto.h"
+	<iostream>
+
+1568815238 d:\eduardo\proyecto 3\include\punto.h
+
+1568817756 d:\eduardo\proyecto 3\include\vectorr.h
+	"punto.h"
+
+1568818304 source:d:\eduardo\proyecto 3\src\vectorr.cpp
+	"vectorr.h"
+	"punto.h"
+	<iostream>
+	<cmath>
+
